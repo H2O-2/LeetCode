@@ -25,4 +25,4 @@ class Solution(object):
         return str_out
 
 test = Solution()
-print(test.longestCommonPrefix(["a", "ab", "abc"]))
+print(test.longestCommonPrefix(["abc", "abd", "aba"]))
