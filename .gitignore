@@ -50,3 +50,4 @@ node_modules/
 ######################
 *.html
 test.py
+*.out
